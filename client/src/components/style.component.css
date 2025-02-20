@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.edit_button , .remove_button{
+    padding: 7px;
+    border-radius: 50%;
+}
+
+.edit_button{
+    background-color: rgb(247, 136, 0);
+}
+
+.remove_button {
+    background-color: rgb(226, 0, 0);
+}
